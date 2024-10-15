@@ -2,6 +2,7 @@
   "name": "tic-toe",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://geomanuk20.github.io/tic-toe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
