@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tic-toe/static/css/main.8c1f0518.css",
+    "main.js": "/tic-toe/static/js/main.2c6257b9.js",
+    "static/js/453.012189fa.chunk.js": "/tic-toe/static/js/453.012189fa.chunk.js",
+    "static/media/tictactoe-game-board-spotlighted-on-260nw-1872516523.jpg": "/tic-toe/static/media/tictactoe-game-board-spotlighted-on-260nw-1872516523.2fcdfc143792ce5ffcda.jpg",
+    "index.html": "/tic-toe/index.html",
+    "main.8c1f0518.css.map": "/tic-toe/static/css/main.8c1f0518.css.map",
+    "main.2c6257b9.js.map": "/tic-toe/static/js/main.2c6257b9.js.map",
+    "453.012189fa.chunk.js.map": "/tic-toe/static/js/453.012189fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1f0518.css",
+    "static/js/main.2c6257b9.js"
+  ]
+}
